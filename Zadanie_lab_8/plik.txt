@@ -1,0 +1,12 @@
+Lekarz: 0[stanowisko=p1, pensja14600.0
+
+126
+Lekarz: 1456[stanowisko=chirurg, pensja3708.0
+
+121
+Lekarz: 1486[stanowisko=stomatolog, pensja10542.0
+
+133
+Lekarz: 1451[stanowisko=kardiochirurg, pensja1894.0
+
+119

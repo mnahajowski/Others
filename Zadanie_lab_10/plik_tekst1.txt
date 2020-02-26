@@ -1,0 +1,4 @@
+Kod : 5 Nazwa : 2 Cena 4.0
+Kod : 1 Nazwa : 2 Cena 5.0
+Kod : 1 Nazwa : 2 Cena 5.0
+Kod : 1 Nazwa : 2 Cena 101.0

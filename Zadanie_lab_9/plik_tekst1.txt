@@ -1,0 +1,10 @@
+Kolor: s5, Wysokosc h= 1 promien r = 7 Objetosc = 51.312680008633286
+Kolor: o5, Wysokosc h= 2Bok a = 5, Bok b = 9, Prawidlowy = false, Objetosc + 30.0
+Kolor: s4, Wysokosc h= 2 promien r = 6 Objetosc = 75.39822368615503
+Kolor: s3, Wysokosc h= 3 promien r = 5 Objetosc = 78.53981633974483
+Kolor: o3, Wysokosc h= 4Bok a = 5, Bok b = 1, Prawidlowy = false, Objetosc + 6.0
+Kolor: s2, Wysokosc h= 4 promien r = 4 Objetosc = 67.02064327658225
+Kolor: o1, Wysokosc h= 5Bok a = 5, Bok b = 5, Prawidlowy = true, Objetosc + 41.0
+Kolor: s1, Wysokosc h= 5 promien r = 3 Objetosc = 47.1238898038469
+Kolor: o2, Wysokosc h= 6Bok a = 3, Bok b = 22, Prawidlowy = false, Objetosc + 132.0
+Kolor: o4, Wysokosc h= 7Bok a = 5, Bok b = 3, Prawidlowy = false, Objetosc + 35.0
